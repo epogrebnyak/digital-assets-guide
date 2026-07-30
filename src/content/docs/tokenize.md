@@ -21,6 +21,6 @@ sidebar:
 
 ## Ideas
 
-- What was VISA entry about 
-- Stats (card stats including) 
-- Volume on  permissioned and consotiun networks 
+- What was VISA entry about
+- Stats (card stats including)
+- Volume on permissioned and consotiun networks

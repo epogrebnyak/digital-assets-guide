@@ -2,7 +2,7 @@
 title: About
 redirect: content/docs/essential/intro.md
 sidebar:
-    order: 1000
+  order: 1000
 ---
 
 ## Quick Facts
@@ -19,6 +19,6 @@ sidebar:
 - use link cards
 
 <!--
-Gigi Perez At the Beach in Every Lifer 
+Gigi Perez At the Beach in Every Lifer
 REM
 -->

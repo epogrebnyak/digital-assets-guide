@@ -1,6 +1,6 @@
 ---
 title: Risks
-description: Risk Management 
+description: Risk Management
 sidebar:
   order: 50
   badge:
@@ -8,7 +8,7 @@ sidebar:
     variant: tip
 ---
 
-Many things in blockchain may not work as intended. 
+Many things in blockchain may not work as intended.
 
 - User error and key loss <!-- Lost seed phrases, wrong addresses, phishing, and malicious dApps -->
 - Smart contract flaws <!-- Code bugs, oracle manipulation, bridge exploits, and governance attacks drain funds at scale. -->
@@ -18,7 +18,7 @@ Many things in blockchain may not work as intended.
 - Regulatory and legal uncertainty
 - Existential and long-term threats <!-- Quantum computing, the scalability-security-decentralization trilemma, and ecosystem-wide composability cascades threaten foundational viability. -->
 
-## Lessons learned 
+## Lessons learned
 
 ### Exchange and fund failures
 
@@ -44,7 +44,7 @@ Many things in blockchain may not work as intended.
 
 - ICO (2017-2018) <!-- Scams and retail losses -->
 - NFT (2021-2022) <!-- Wash trading, illiquidity -->
-- DTC (2026) <!-- No sustainable business model -->  
+- DTC (2026) <!-- No sustainable business model -->
 
 ### Regulatory actions
 
@@ -56,39 +56,47 @@ Many things in blockchain may not work as intended.
 ### Smart contracts and algorithms
 
 **Algorithmic risks**
+
 - Errors in consensus, bonding curves, AMM formulas, rounding erros
 - Example: Terra/LUNA's death spiral was algorithmic, not a hack
 
 **Smart contract vulnerabilities**
+
 - Re-entrancy, access control, logic flaws, upgradeability risks
 - Example: The DAO (2016)
 
 ### Malicious information
 
 **Oracle manipulation**
+
 - Price feed manipulation via flash loans or low-liquidity pools
 - Example: Mango Markets (2022) - exploited via manipulated oracle prices
 
 **Bridge and interoperability risks**
+
 - Cross-chain messages can be spoofed or replayed
 - Example: Any bridge with trusted validators
 
 ### Execution risks
 
 **Governance risks**
+
 - Token-based voting can be captured by whales or attackers
 - Example: Aave, Compound - governance attacks remain theoretical but persistent
 
 **Systemic contagion**
+
 - Concentration of stablecoin reserves in a single bank <!-- hover: USDC at SVB -->
 - Interconnected leverage across DeFi protocols
 
-### User as a target 
+### User as a target
 
 **Key management and custody risks**
+
 - Private key loss, theft, or compromise
 - Social engineering, phishing, sim-swapping, insider threats
 
 **Behavioral and social engineering**
+
 - Honey-pots, rug pulls, fake websites, malicious browser extensions
 - Pump-and-dump schemes, influencer manipulation
