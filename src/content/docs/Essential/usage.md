@@ -4,8 +4,8 @@ description: What do people need blockchain for?
 sidebar:
   order: 12
 ---
- 
-What do users need blockchain for? Blockchain enables interactions in speculative, institutional, and decentralised finance, 
+
+What do users need blockchain for? Blockchain enables interactions in speculative, institutional, and decentralised finance,
 several non-financial applications, as well as emerging access to physical infrastructure (DePIN) and content.
 Speculative hype, genuine utility, and points to be proved are quite mixed!
 
@@ -51,4 +51,3 @@ Speculative hype, genuine utility, and points to be proved are quite mixed!
 
 - AI/ML <!-- hover: Bittensor, Gensyn -->
 - Content <!-- hover: Mirror, Lens Protocol, Farcaster -->
-

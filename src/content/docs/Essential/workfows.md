@@ -5,15 +5,15 @@ sidebar:
   order: 14
 ---
 
-How do users interact with blockchain? First, some assets are created on-chain. 
-Users may acquire crypto assets at their address using fiat money. 
+How do users interact with blockchain? First, some assets are created on-chain.
+Users may acquire crypto assets at their address using fiat money.
 Then they can send these assets to another address.
 
 ## Asset creation
 
-> Where do the new assets come from? Native currencies emerge as rewards to miners or 
+> Where do the new assets come from? Native currencies emerge as rewards to miners or
 > verifiers for supporting blockchain operations, while new smart contracts or tokens can be
-> put on chain by the users. Airdrops make free transfers to users.    
+> put on chain by the users. Airdrops make free transfers to users.
 
 - Native issuance <!-- hover: block rewards, staking and validation -->
 - Token minting <!-- hover: ERC-20, ERC-721, ERC-1155 deployment -->
@@ -21,7 +21,7 @@ Then they can send these assets to another address.
 
 ## On-ramp and off-ramp
 
-"On-ramp" means converting fiat money into cryptographic assets, "off-ramp" is the reverse. 
+"On-ramp" means converting fiat money into cryptographic assets, "off-ramp" is the reverse.
 Methods differ by speed, fees, privacy, and level of ID verification (KYC) required.
 
 - Cash at the table <!-- hover: face-to-face meetup trade for cash, no intermediary or escrow, relies on mutual trust -->
@@ -34,7 +34,7 @@ Methods differ by speed, fees, privacy, and level of ID verification (KYC) requi
 
 ## Wallet as gateway
 
-Wallet software is typically the most common way users get access to blockchain.  
+Wallet software is typically the most common way users get access to blockchain.
 
 - Your public key is the visible address for your funds or a smart contract you deployed.
 - Your private key controls the data at this address, but the key is not designed to be human-friendly.
@@ -44,13 +44,13 @@ Wallet software is typically the most common way users get access to blockchain.
 
 ## Transaction lifecycle
 
-What are the steps for a complete cycle of a transaction on a blockchain? 
+What are the steps for a complete cycle of a transaction on a blockchain?
 
 - Create a wallet (MetaMask, Trust Wallet, Phantom, Ledger).
 - Get someone send you the funds (see the "On-ramp" section).
 - Start transaction (specify recipient, asset, amount and gas - priority fee, gas limit).
-- Sign, broadcast transaction and reach mempool. 
-- Propose a block - validator/miner selects the transaction based on gas fees. 
+- Sign, broadcast transaction and reach mempool.
+- Propose a block - validator/miner selects the transaction based on gas fees.
 - Consensus - network reaches consensus on the new block.
 - Confirmation - block is added to the chain.
 - Monitor or get notifications on success or failure. <!-- eg Etherscan -->

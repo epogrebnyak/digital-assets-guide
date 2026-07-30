@@ -6,7 +6,7 @@ sidebar:
   order: 11
 ---
 
-We start by reviewing operational concepts of blockchain,
+Here we review operational concepts of blockchain,
 discuss the builders' motivating principles,
 and outline milestones in the early and current history of digital assets.
 
@@ -19,27 +19,25 @@ Core operational concepts:
 - append-only database ("immutable"),
 - distributed across nodes ("distributed"),
 - may run small programs ("programmable"),
-- data integrity needs consensus among nodes,
-- nodes make worst assumptions about each one's behaviour ("trustless"),  
-- mints and collects internal currency units, 
-- needs economic incentives to operate sustainably.
+- data integrity needs consensus among nodes and nodes make the worst case assumptions about each one's behaviour ("trustless"),
+- internal currency units are used to reward node operators ("incetivized").
 
-## Motivations
+## Why build it?
 
-Several motivations shape development of blockchain. One can see motivation following or building upon another:
+Several motivations shape blockchain development.
 
-- In general **decentralized networks and consensus mechanisms** aim to agree on the state of shared data without a central counterparty.
-- **The Bitcoin network** creates a fully decentralised, tamper-free system to hold data on digital currency transactions.
-- **Etherium's** promise is programmability -- providing a universally accessible computing environments that can process data for many users.
+- censorship resistance – activity cannot be blocked by any central authority,
+- self-custody – users retain control over their assets,
+- universal access – anyone with an internet connection can participate,
+- transparency and privacy.
 
-Several newer networks attempt to strike to the right balance between scale, speed, security, cost and level of decentralisations. Institutional blockchain seeks better settlement for transactions already carried by traditional financial institutions. There is also a move towards ensure privacy of transactions and better user protection. 
+> See ["Decoding Bitcoin: A Cypherpunk's Manifesto for Financial Freedom"](https://d-central.tech/decoding-bitcoin-a-cypherpunks-manifesto-for-financial-freedom/). During hype bubbles and Bitcoin price surges, the anarchist builder's idealism is known to turn into [cryptobro toxicity](https://www.reddit.com/r/Buttcoin/comments/1s30r3z/a_message_to_crypto_bros_who_might_be_reading_here/).
 
 ## History
 
-- Bitcoin (2008)
-- Ethereum (2015)
-- DeFi Summer (2020)
-- L2 scaling (2021) <!-- Arbitrum One launched August 2021, Optimism mainnet followed that December — this marked the shift from theoretical scaling to live rollups with real TVL -->
-- Crashes (2022) <!-- Terra/Luna collapse in May, followed by the FTX implosion in November -->
-- Stablecoins (2025) <!-- MiCA regulations fully enforced in the EU, and major U.S. stablecoin legislation — like the GENIUS Act — advanced through Congress, moving stablecoins from a regulatory gray zone into structured compliance -->
-- Tokenisation (2026) 
+- Bitcoin (2008) and Ethereum (2015) launches.
+- ICO (2018-2018) and NFT (2021-2022) bubbles.
+- DeFi summer (2020) and L2 scaling (2021). <!-- Arbitrum One launched August 2021, Optimism mainnet followed that December — this marked the shift from theoretical scaling to live rollups with real TVL -->
+- Terra/Luna and FTX crashes (2022). <!-- Terra/Luna collapse in May, followed by the FTX implosion in November -->
+- Peak BTC and stablecoins (2025). <!-- MiCA regulations fully enforced in the EU, and major U.S. stablecoin legislation — like the GENIUS Act — advanced through Congress, moving stablecoins from a regulatory gray zone into structured compliance -->
+- Tokenization and institutional adoption (2026).
