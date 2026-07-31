@@ -1,6 +1,7 @@
 ---
 title: Components
 description: Lego blocks for any chain
+draft: true
 sidebar:
   order: 13
 ---

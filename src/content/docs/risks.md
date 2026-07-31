@@ -1,8 +1,9 @@
 ---
 title: Risks
 description: Risk Management
+draft: true
 sidebar:
-  order: 50
+  order: 40
   badge:
     text: New
     variant: tip

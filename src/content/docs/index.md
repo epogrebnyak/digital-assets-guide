@@ -1,6 +1,6 @@
 ---
 title: About
-redirect: content/docs/essential/intro.md
+redirect: /essential/intro.md
 sidebar:
   order: 1000
 ---
@@ -8,6 +8,8 @@ sidebar:
 ## Quick Facts
 
 - Singapore RedotPay is the world's largest crypto card program according to [PaymentScan](https://paymentscan.xyz/)
+
+<!--
 
 ## TODO
 
@@ -18,7 +20,7 @@ sidebar:
 - put on github
 - use link cards
 
-<!--
+
 Gigi Perez At the Beach in Every Lifer
 REM
 -->

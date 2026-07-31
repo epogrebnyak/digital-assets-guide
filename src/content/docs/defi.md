@@ -1,9 +1,10 @@
 ---
 title: Decentralised Finance
 description: Protocols for DeFi
+draft: true
 sidebar:
   label: DeFi
-  order: 40
+  order: 50
 ---
 
 - Staking <!-- hover: Lido -->

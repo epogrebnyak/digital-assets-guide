@@ -1,6 +1,7 @@
 ---
 title: Advanced Blockchain
 description: Things to check before you dive in.
+draft: true
 sidebar:
   label: Advanced
   order: 20

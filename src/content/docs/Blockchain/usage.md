@@ -1,6 +1,7 @@
 ---
 title: Usecases
 description: What do people need blockchain for?
+draft: true
 sidebar:
   order: 12
 ---
