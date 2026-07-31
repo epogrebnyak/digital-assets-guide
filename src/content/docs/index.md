@@ -1,9 +1,10 @@
 ---
 title: About
-redirect: /essential/intro.md
 sidebar:
   order: 1000
 ---
+
+> This page should load to <https://epogrebnyak.github.io/digital-assets-guide/blockchain/intro/>
 
 ## Quick Facts
 

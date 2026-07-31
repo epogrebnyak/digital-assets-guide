@@ -19,13 +19,6 @@ export default defineConfig({
           href: "https://github.com/epogrebnyak/digital-assets-guide",
         },
       ],
-      sidebar: [
-        {
-          label: "Blockchain",
-          // Autogenerate links for the 'constellations' directory.
-          items: [{ autogenerate: { directory: "Blockchain" } }],
-        },
-      ],
     }),
   ],
 });
