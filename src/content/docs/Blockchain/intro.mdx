@@ -14,15 +14,17 @@ and several milestones in digital assets history.
 
 Append-only, distributed ledger for data storage and program execution secured by cryptography and consensus of trustless participants.
 
-Core operational concepts:
+import { Badge } from "@astrojs/starlight/components";
 
-| Concept      | Description                                                                      |
-| ------------ | -------------------------------------------------------------------------------- |
-| Immutable    | Append-only database.                                                            |
-| Distributed  | Data resides at several nodes.                                                   |
-| Trustless    | Nodes reach consensus on true data while assuming any node may be untrustworthy. |
-| Incentivized | Internal currency units are used to reward node operators.                       |
-| Programmable | Can run small programs.                                                          |
+| Concept                                      | Description                                    |
+| -------------------------------------------- | ---------------------------------------------- |
+| <Badge variant="note" text="Immutable" />    | Append-only database.                          |
+| <Badge variant="note" text="Distributed" />  | Data resides at several nodes.                 |
+| <Badge variant="note" text="Trustless" />    | Nodes reach consensus on true data.            |
+| <Badge variant="note" text="Incentivized" /> | Internal currency units reward node operators. |
+| <Badge variant="note" text="Programmable" /> | Can run small programs.                        |
+
+> See [Blockchain Technology Overview](https://arxiv.org/pdf/1906.11078)
 
 ## Why build it?
 
@@ -37,20 +39,20 @@ Several motivations shape blockchain development:
 
 ## Milestones
 
-- Bitcoin (2008) and Ethereum (2015) launches.
-- ICO (2017–2018) and NFT (2021–2022) bubbles.
-- DeFi summer (2020) and L2 scaling (2021). {/* Arbitrum One launched August 2021, Optimism mainnet followed that December — this marked the shift from theoretical scaling to live rollups with real TVL */}
-- Terra/Luna and FTX crashes (2022). {/* Terra/Luna collapse in May, followed by the FTX implosion in November */}
-- Peak BTC. MiCA, GENIUS Act for stablecoin regulation (2025). {/* MiCA regulations fully enforced in the EU, and major U.S. stablecoin legislation — like the GENIUS Act — advanced through Congress */}
-- Tokenization and institutional adoption (2026).
+- [Bitcoin](https://bitcoin.org/bitcoin.pdf) (2008) and [Ethereum](https://ethereum.org/whitepaper) (2015) launches.
+- [ICO](https://www.nasdaq.com/articles/credit-suisse-argues-irrational-exuberance-around-icos-indicates-bitcoin-bubble-2018-01-15) (2017–2018) and [NFT](https://ieeexplore.ieee.org/document/10320355) (2021–2022) bubbles.
+- [DeFi summer](https://www.nasdaq.com/articles/with-comp-below-$100-a-look-back-at-the-defi-summer-it-sparked-2020-10-20) (2020) and [L2 scaling](https://blockworks.co/news/das-2021-are-layer-1s-better-than-layer-2s) (2021).
+- [Terra/Luna](https://www.riksbank.se/globalassets/media/konferenser/2023/session-1-liu_makarov_schoar-anatomy_of_a_run-_the_terra_luna_crash.pdf) and [FTX](https://www.chicagofed.org/publications/chicago-fed-letter/2023/479) crashes (2022).
+- [Peak BTC](https://www.htx.com.gt/price/btc/history/?start=1738368000000&end=1769904000000&period=1mon&pageNo=1). [MiCA](https://oraclelawglobal.com/news/stablecoins-in-the-european-legal-order-regulation-systemic-risk-and-the-transformation-of-financial-infrastructure-2025-update/), [GENIUS Act](https://dcbar.org/news-events/publications/washington-lawyer-articles/genius-act-a-regulatory-first-step,-not-the-final-) for stablecoin regulation (2025).
+- [Tokenization and institutional adoption](https://www.dtcc.com/dtcc-connection/articles/2026/may/19/tokenization-moves-from-theory-to-reality) (2026).
 
 <br />
 
 import { Aside } from "@astrojs/starlight/components";
 
 <Aside type="note" title="AI Summary">
-  - Blockchain development pulls between its original ideals of freedom and the
-  wild speculation. - Major crashes in 2022 forced the industry to focus on
-  better technology and regulation. - Blockchain is moving into mainstream
-  finance, which could change its original purpose.
+  Blockchain development pulls between its original ideals of freedom and the
+  wild speculation. Major crashes in 2022 forced the industry to focus on better
+  technology and regulation. Blockchain is moving into mainstream finance, which
+  could change its original purpose.
 </Aside>
