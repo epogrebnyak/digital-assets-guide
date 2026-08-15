@@ -1,14 +1,14 @@
 ---
 title: Usecases
-description: What do people need blockchain for?
+description: What do people may need blockchain for?
 draft: true
 sidebar:
   order: 12
 ---
 
 What do users need blockchain for? Blockchain enables interactions in speculative, institutional, and decentralised finance,
-several non-financial applications, as well as emerging access to physical infrastructure (DePIN) and content.
-Speculative hype, genuine utility, and points to be proved are quite mixed!
+as well as emerging access to physical infrastructure (DePIN), content and other non-financial applications.
+Speculative hype, false hopes and genuine utility proved to be quite mixed!
 
 ## Speculative
 
@@ -18,22 +18,21 @@ Speculative hype, genuine utility, and points to be proved are quite mixed!
 
 ## Entertainment
 
-- Gaming <!-- hover: Axie Infinity -->
 - Collectibles <!-- hover: OpenSea -->
+- Gaming <!-- hover: Axie Infinity -->
 
 ## Institutional finance
 
 - Payments <!-- hover: cross-border settlements, remittances, merchant payments -->
-- Financial real world assets (RWA) <!-- hover: tokenized treasuries, private credit, real estate -->
+- Securities <!-- hover: tokenized treasuries, private credit, real estate -->
 
 ## Decentralised finance (DeFi)
 
 - Staking <!-- hover: Lido -->
-- Collateralised lending <!-- hover: Aave, Compound -->
 - Automated market makers <!-- hover: Uniswap, Curve -->
+- Collateralised lending <!-- hover: Aave, Compound -->
 - Insurance and actuarial models <!-- hover: Nexus Mutual -->
 - Derivatives <!-- hover: dYdX, GMX, perpetuals -->
-- RWA protocols <!-- hover: MakerDAO -->
 
 ## Physical (DePIN)
 
