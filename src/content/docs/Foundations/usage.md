@@ -3,7 +3,7 @@ title: Usecases
 description: What do people may need blockchain for?
 draft: true
 sidebar:
-  order: 12
+  order: 11
 ---
 
 What do users need blockchain for? Blockchain enables interactions in speculative, institutional, and decentralised finance,

@@ -3,7 +3,7 @@ title: Components
 description: Lego blocks for any chain
 draft: true
 sidebar:
-  order: 13
+  order: 12
 ---
 
 What are the minimal building blocks to have a blockchain running? Start at the lower level with core technology, see which networks have emerged as popular, what rules keep them sustainable, and what types of assets are traded and where that happens.

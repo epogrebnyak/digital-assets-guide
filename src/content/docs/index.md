@@ -6,15 +6,17 @@ sidebar:
 
 > This page should load to <https://epogrebnyak.github.io/digital-assets-guide/blockchain/intro/>
 
-This guide is organised into five modules. Each module is delivered as a set of lessons moving from first principles to current market practice.
+This guide is organised into sections. Each section is delivered as a set of modules, or "days".
 
-**Foundations** establishes why blockchain technology exists and how it works. The module covers the motivation behind decentralised systems — trust, double-spend prevention and the problems of centralisation — then introduces the core primitives: cryptography, data structures, accounts, nodes, consensus, incentives, governance and MEV. Programmability follows through smart contracts, virtual machines, languages, standards, tooling and audits, and the module closes with the user workflows that tie it together: the transaction lifecycle, token issuance and on/off-ramps.
+**Foundations** establishes [why blockchain technology exists](foundations/why/) and how it works. The first module covers the motivation behind decentralised systems and a range of theoretical and practical [use cases](foundations/usecases/). The next module introduces the [core primitives](foundations/components/) for blockchain: cryptography, data structures, consensus mechanisms, and governance.  [User workflows](foundations/workflows/) then tie these components together: the transaction lifecycle, native currency and token issuance, and the on/off-ramp journey. 
 
-**Infrastructure** surveys the networks and services that digital assets run on. The module examines base networks (Layer 1 designs), scaling through Layer 2 solutions, data availability and the scaling trilemma, interoperability via bridges and shared security, and the on-chain analytics tooling — explorers, data providers and portfolio trackers — used to observe and verify activity.
+The **[Smart contract](foundations/code/)** section covers virtual machines, languages, and smart contracts standards.
 
-**Assets and Applications** maps the digital asset landscape. The module covers existing digital assets such as native currencies, stablecoins, tokenized securities, real-world assets, memecoins and NFTs, then moves into decentralised finance — AMMs, lending, staking, derivatives and aggregators — and finally the emerging verticals of DePIN, GameFi, SocialFi and identity.
+[**Infrastructure**](/infrastructure/networks/) surveys the networks and services that digital assets run on. The module examines base networks (Layer 1 designs), scaling through Layer 2 solutions, data availability and the scaling trilemma, interoperability via bridges and shared security, and the on-chain analytics tooling — explorers, data providers and portfolio trackers — used to observe and verify activity. The section closes with [scalability and enhancements](foundations/advanced/), an optional set of advanced topics for further exploration.
 
-**Markets and Adoption** looks at how digital assets connect to traditional finance and who is using them. The module reviews public company exposure through ETFs, corporate treasuries, miners and exchange and issuer businesses, and assesses institutional, retail and developer adoption.
+**Assets and Applications** maps the digital asset landscape. The module covers existing digital assets such as native currencies, stablecoins, tokenised securities, real-world assets, memecoins and NFTs, then moves into decentralised finance — AMMs, lending, staking, derivatives and aggregators — and finally the emerging verticals of DePIN, GameFi, SocialFi and identity.
+
+**Markets and Adoption** looks at how digital assets connect to traditional finance and who is using them. The module reviews public company exposure through ETFs, corporate treasuries, miners, exchanges and issuers, and assesses institutional, retail and developer adoption.
 
 **Risks and Regulation** addresses the constraints and open questions facing the space. The module categorises the main risks — market, counterparty, smart contract, operational, governance and regulatory — reviews the regulatory frameworks governing market structure, disclosure, AML/KYC, taxation and CBDCs, and closes with the outlook: AI agents, privacy technology, quantum threats, institutional convergence and the open questions that remain.
 
