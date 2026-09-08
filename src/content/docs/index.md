@@ -38,7 +38,7 @@ C6. Niche Assets
 
 D. Decentralised Finance Protocols
 
-
+What are the core protocols that enable permissionless financial services?
 
 D1. Automated Market Makers 
 D2. Lending and Borrowing 
