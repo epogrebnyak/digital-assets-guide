@@ -18,6 +18,7 @@ A1. Blockchain Infrastructure
 A2. Smart Contracts
 
 B. Access and Transactions
+How do users securely access and transact with digital assets?
 B1. Keys, Wallets and Custody 
 B2. Transaction Lifecycle 
 B3. On- and Off-Ramps 
