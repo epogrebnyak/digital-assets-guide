@@ -3,7 +3,7 @@ title: Risks
 description: Risk Management
 draft: true
 sidebar:
-  order: 40
+  order: 60
   badge:
     text: New
     variant: tip

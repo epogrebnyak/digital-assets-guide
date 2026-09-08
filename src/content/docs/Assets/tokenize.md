@@ -3,7 +3,7 @@ title: Tokenization
 description: Who Tokenizes What?
 draft: true
 sidebar:
-  order: 30
+  order: 42
 ---
 
 ## What SEC Says

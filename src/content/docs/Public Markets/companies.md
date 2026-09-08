@@ -2,7 +2,7 @@
 title: Public Companies
 draft: true
 sidebar:
-  order: 41
+  order: 51
 ---
 
 Covers disclosures of public companies that give exposure to digital assets or rely on them as part of their business model.

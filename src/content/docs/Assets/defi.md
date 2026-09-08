@@ -4,7 +4,7 @@ description: Protocols for DeFi
 draft: true
 sidebar:
   label: DeFi
-  order: 50
+  order: 43
 ---
 
 - Staking <!-- hover: Lido -->

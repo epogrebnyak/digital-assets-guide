@@ -1,5 +1,10 @@
 ---
-title: : Digital Assets and Tokenisation
+title: Digital Assets and Tokenisation
+description: ---
+draft: true
+sidebar:
+  label: DeFi
+  order: 41
 ---
 
 Covers existing digital assets, starting with native currencies and moving through fungible contract coins.

@@ -2,7 +2,7 @@
 title: Adoption
 draft: true
 sidebar:
-  order: 42
+  order: 52
 ---
 Covers institutional, retail, and developer adoption of digital assets.
 
