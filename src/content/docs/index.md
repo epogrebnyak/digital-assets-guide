@@ -18,12 +18,17 @@ A1. Blockchain Infrastructure
 A2. Smart Contracts
 
 B. Access and Transactions
+
 How do users securely access and transact with digital assets?
+
 B1. Keys, Wallets and Custody 
 B2. Transaction Lifecycle 
 B3. On- and Off-Ramps 
 
 C. Assets
+
+What are the categories of digital assets?
+
 C1. Native Currencies 
 C2. Memecoins and NFTs
 C3. Stablecoins 
@@ -32,6 +37,9 @@ C5. Utility and Governance Tokens
 C6. Niche Assets
 
 D. Decentralised Finance Protocols
+
+
+
 D1. Automated Market Makers 
 D2. Lending and Borrowing 
 D3. Liquid Staking and Restaking 
