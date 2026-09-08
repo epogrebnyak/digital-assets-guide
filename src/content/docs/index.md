@@ -4,38 +4,57 @@ sidebar:
   order: 1000
 ---
 
-> This page should load to <https://epogrebnyak.github.io/digital-assets-guide/blockchain/intro/>
 
-This guide is organised into sections. Each section is delivered as a set of modules, or "days".
+```
+Introductory Course on Digital Assets
 
-**Foundations** establishes [why blockchain technology exists](foundations/why/) and how it works. The first module covers the motivation behind decentralised systems and a range of theoretical and practical [use cases](foundations/usecases/). The next module introduces the [core primitives](foundations/components/) for blockchain: cryptography, data structures, consensus mechanisms, and governance.  [User workflows](foundations/workflows/) then tie these components together: the transaction lifecycle, native currency and token issuance, and the on/off-ramp journey. 
+Motivation and Use Cases
 
-The **[Smart contract](foundations/code/)** section covers virtual machines, languages, and smart contracts standards.
+A. Foundations
 
-[**Infrastructure**](/infrastructure/networks/) surveys the networks and services that digital assets run on. The module examines base networks (Layer 1 designs), scaling through Layer 2 solutions, data availability and the scaling trilemma, interoperability via bridges and shared security, and the on-chain analytics tooling — explorers, data providers and portfolio trackers — used to observe and verify activity. The section closes with [scalability and enhancements](foundations/advanced/), an optional set of advanced topics for further exploration.
+How does a network with no central authority agree on the truth?
 
-**Assets and Applications** maps the digital asset landscape. The module covers existing digital assets such as native currencies, stablecoins, tokenised securities, real-world assets, memecoins and NFTs, then moves into decentralised finance — AMMs, lending, staking, derivatives and aggregators — and finally the emerging verticals of DePIN, GameFi, SocialFi and identity.
+A1. Blockchain Infrastructure
+A2. Smart Contracts
 
-**Markets and Adoption** looks at how digital assets connect to traditional finance and who is using them. The module reviews public company exposure through ETFs, corporate treasuries, miners, exchanges and issuers, and assesses institutional, retail and developer adoption.
+B. Access and Transactions
+B1. Keys, Wallets and Custody 
+B2. Transaction Lifecycle 
+B3. On- and Off-Ramps 
 
-**Risks and Regulation** addresses the constraints and open questions facing the space. The module categorises the main risks — market, counterparty, smart contract, operational, governance and regulatory — reviews the regulatory frameworks governing market structure, disclosure, AML/KYC, taxation and CBDCs, and closes with the outlook: AI agents, privacy technology, quantum threats, institutional convergence and the open questions that remain.
+C. Assets
+C1. Native Currencies 
+C2. Memecoins and NFTs
+C3. Stablecoins 
+C4. Tokenised Financial Products 
+C5. Utility and Governance Tokens
+C6. Niche Assets
 
-## Day Annotations
+D. Decentralised Finance Protocols
+D1. Automated Market Makers 
+D2. Lending and Borrowing 
+D3. Liquid Staking and Restaking 
+D4. Derivatives Markets
+D5. Prediction Markets 
+D6. Portfolio Allocation Strategies 
 
-| Day | Title                           | What it covers                                                                                           |
-| --- | ------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 1   | Why Blockchain                  | address issues of trust, double-spend, centralization.                                                   |
-| 2   | Building Blocks                 | Core primitives: cryptography, data structures, accounts, nodes, consensus, incentives, governance, MEV. |
-| 3   | Programmability                 | Smart contracts: virtual machines, languages, standards, tooling, audits.                                |
-| 4   | Workflows                       | Transaction lifecycle, token issuance, on/off-ramps.                                                     |
-| 5   | Blockchain Networks             | Layer 1 networks, wallets, exchanges, DAOs, oracles.                                                     |
-| 6   | Scaling and Interoperability    | Trilemma, Layer 2 designs, data availability, bridges, shared security.                                  |
-| 7   | On-Chain Analytics              | Explorers, data providers, portfolio trackers.                                                           |
-| 8   | Digital Assets and Tokenisation | Native currencies, stablecoins, tokenized securities, RWAs, memecoins, NFTs.                             |
-| 9   | Programmable Finance            | AMMs, lending, staking, derivatives, aggregators.                                                        |
-| 10  | Emerging Verticals              | DePIN, GameFi, SocialFi, identity.                                                                       |
-| 11  | Public Markets                  | ETFs, corporate treasuries, miners, exchange and issuer businesses.                                      |
-| 12  | Adoption                        | Institutional, retail, developer adoption.                                                               |
-| 13  | Risks                           | Market, counterparty, smart contract, operational, governance, regulatory risk.                          |
-| 14  | Regulation and Policy           | Frameworks, market structure, disclosure, AML/KYC, taxation, CBDCs.                                      |
-| 15  | Outlook                         | AI agents, privacy tech, quantum threats, institutional convergence, open questions.                     |
+E. Regulation 
+E1. Legal Classification
+E2. Components of Regulatory Frameworks 
+E3. Regulatory Regimes by Country 
+
+F. Risk Management
+
+What can go wrong, what did go wrong and how to mitigate.
+
+F1. Layered Risk Framework
+F2. Case Studies of Major Incidents
+
+G. Industry Structure
+
+What do listed companies disclose about their digital asset strategy or new business models?
+
+G1. Tokenisation Value Chain
+G2. BTC Exposure
+G3. Incumbent Adoption
+```
